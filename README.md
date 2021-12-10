@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Huskky.
+#### 哈喽，我是 吴事。
 <!--
 **HuskkyQ/HuskkyQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
