@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-前路漫漫，吾将上下而求索。<br />
-加油，2022进大厂！！！
+<h2>前路漫漫，吾将上下而求索~~ </h2>
+加油，2022进大厂~~
+<p>~~立个flag，每天都要打卡github，争取跟地铁站一样勤快~~</p>
