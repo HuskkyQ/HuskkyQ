@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>前路漫漫，吾将上下而求索~~ </h2>
-加油，2022进大厂~~
+加油~~
