@@ -12,13 +12,9 @@
 
 A personal homepage in a cyber-neon gaming style, with a playful interactive terminal.
 
-[cyber-steven.vercel.app](https://cyber-steven.vercel.app)
-
 ### [When CZ Wake](https://when-cz-wake.vercel.app)
 
 A meme tiled into wallpaper, a vintage English clock on California time, and a whack-a-mole image that celebrates with confetti. A playful experiment. It does not track when anyone wakes up.
-
-[when-cz-wake.vercel.app](https://when-cz-wake.vercel.app)
 
 ---
 
