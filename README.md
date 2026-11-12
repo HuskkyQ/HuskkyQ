@@ -8,6 +8,12 @@
 
 ## Sites · Some useless knick-knacks
 
+### [Neon Rainbow · 霓虹彩虹](https://neon-rainbow-six.vercel.app)
+
+An interactive neon rainbow toy with three modes. In Comet, hover to drag a glowing rainbow comet tail and click to bloom a rainbow ring; in Create, draw or write with a persistent rainbow brush, then undo or save as PNG; in Roam, fling the comet and watch it bounce off the screen edges.
+
+<a href="https://neon-rainbow-six.vercel.app"><img src="assets/neon-rainbow.png" width="100%" alt="Dark Neon Rainbow screen titled 霓虹彩虹, with a concentric rainbow ring on the left and a curved glowing comet tail ending in a bright head on the right."></a>
+
 ### [Cyber Steven](https://cyber-steven.vercel.app)
 
 A personal homepage in a cyber-neon gaming style, with a playful interactive terminal.
